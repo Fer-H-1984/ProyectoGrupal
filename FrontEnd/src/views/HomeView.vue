@@ -1,10 +1,3 @@
 <template>
-  <h1>Registro de Gastos</h1>
-  <GastoForm />
-  <GastoLista />
+  <h1>Gestor de Gastos</h1>
 </template>
-
-<script setup>
-import GastoForm from "../components/GastoForm.vue";
-import GastoLista from "../components/GastoLista.vue";
-</script>

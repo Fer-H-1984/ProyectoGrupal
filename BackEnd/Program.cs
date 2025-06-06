@@ -1,15 +1,33 @@
+using ProyectoGastosAPI.Data;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// ?? CONFIGURAR CORS
+builder.Services.AddCors(options =>
+{
+    options.AddDefaultPolicy(policy =>
+    {
+        policy.WithOrigins("http://localhost:5173")
+              .AllowAnyHeader()
+              .AllowAnyMethod();
+    });
+});
+
+// ?? CONFIGURAR DbContext
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("ConexionDB")));
 
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+// ?? CONSTRUIR APP
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// ?? ACTIVAR CORS
+app.UseCors();
+
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
