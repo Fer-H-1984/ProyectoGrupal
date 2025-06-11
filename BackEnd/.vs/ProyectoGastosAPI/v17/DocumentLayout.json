@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ferna\\source\\repos\\ProyectoGrupal\\BackEnd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E48CDD62-ACD9-401C-BFF8-28DE9812694D}|ProyectoGastosAPI.csproj|c:\\users\\ferna\\source\\repos\\proyectogrupal\\backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E48CDD62-ACD9-401C-BFF8-28DE9812694D}|ProyectoGastosAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E48CDD62-ACD9-401C-BFF8-28DE9812694D}|ProyectoGastosAPI.csproj|c:\\users\\ferna\\source\\repos\\proyectogrupal\\backend\\models\\gasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48CDD62-ACD9-401C-BFF8-28DE9812694D}|ProyectoGastosAPI.csproj|solutionrelative:models\\gasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E48CDD62-ACD9-401C-BFF8-28DE9812694D}|ProyectoGastosAPI.csproj|c:\\users\\ferna\\source\\repos\\proyectogrupal\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E48CDD62-ACD9-401C-BFF8-28DE9812694D}|ProyectoGastosAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E48CDD62-ACD9-401C-BFF8-28DE9812694D}|ProyectoGastosAPI.csproj|c:\\users\\ferna\\source\\repos\\proyectogrupal\\backend\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E48CDD62-ACD9-401C-BFF8-28DE9812694D}|ProyectoGastosAPI.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E48CDD62-ACD9-401C-BFF8-28DE9812694D}|ProyectoGastosAPI.csproj|c:\\users\\ferna\\source\\repos\\proyectogrupal\\backend\\migrations\\20250605180830_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48CDD62-ACD9-401C-BFF8-28DE9812694D}|ProyectoGastosAPI.csproj|solutionrelative:migrations\\20250605180830_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E48CDD62-ACD9-401C-BFF8-28DE9812694D}|ProyectoGastosAPI.csproj|c:\\users\\ferna\\source\\repos\\proyectogrupal\\backend\\controllers\\gastoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E48CDD62-ACD9-401C-BFF8-28DE9812694D}|ProyectoGastosAPI.csproj|solutionrelative:controllers\\gastoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E48CDD62-ACD9-401C-BFF8-28DE9812694D}|ProyectoGastosAPI.csproj|c:\\users\\ferna\\source\\repos\\proyectogrupal\\backend\\models\\gasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E48CDD62-ACD9-401C-BFF8-28DE9812694D}|ProyectoGastosAPI.csproj|solutionrelative:models\\gasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E48CDD62-ACD9-401C-BFF8-28DE9812694D}|ProyectoGastosAPI.csproj|c:\\users\\ferna\\source\\repos\\proyectogrupal\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,79 +50,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\ferna\\source\\repos\\ProyectoGrupal\\BackEnd\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\ferna\\source\\repos\\ProyectoGrupal\\BackEnd\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-10T00:11:26.002Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ferna\\source\\repos\\ProyectoGrupal\\BackEnd\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\ferna\\source\\repos\\ProyectoGrupal\\BackEnd\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-10T00:10:59.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ferna\\source\\repos\\ProyectoGrupal\\BackEnd\\Models\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\ferna\\source\\repos\\ProyectoGrupal\\BackEnd\\Models\\AppDbContext.cs",
-              "RelativeToolTip": "Models\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "20250605180830_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\source\\repos\\ProyectoGrupal\\BackEnd\\Migrations\\20250605180830_Inicial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250605180830_Inicial.cs",
+              "ToolTip": "C:\\Users\\ferna\\source\\repos\\ProyectoGrupal\\BackEnd\\Migrations\\20250605180830_Inicial.cs",
+              "RelativeToolTip": "Migrations\\20250605180830_Inicial.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T00:10:52.598Z",
+              "WhenOpened": "2025-06-11T00:08:40.764Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Gasto.cs",
-              "DocumentMoniker": "C:\\Users\\ferna\\source\\repos\\ProyectoGrupal\\BackEnd\\Models\\Gasto.cs",
-              "RelativeDocumentMoniker": "Models\\Gasto.cs",
-              "ToolTip": "C:\\Users\\ferna\\source\\repos\\ProyectoGrupal\\BackEnd\\Models\\Gasto.cs",
-              "RelativeToolTip": "Models\\Gasto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T23:46:38.054Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "GastosController.cs",
-              "DocumentMoniker": "C:\\Users\\ferna\\source\\repos\\ProyectoGrupal\\BackEnd\\Controllers\\GastosController.cs",
-              "RelativeDocumentMoniker": "Controllers\\GastosController.cs",
-              "ToolTip": "C:\\Users\\ferna\\source\\repos\\ProyectoGrupal\\BackEnd\\Controllers\\GastosController.cs",
-              "RelativeToolTip": "Controllers\\GastosController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T23:34:57.253Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ferna\\source\\repos\\ProyectoGrupal\\BackEnd\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\ferna\\source\\repos\\ProyectoGrupal\\BackEnd\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAkwBwAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T23:31:59.849Z"
+              "WhenOpened": "2025-06-11T00:07:42.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gasto.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\source\\repos\\ProyectoGrupal\\BackEnd\\Models\\Gasto.cs",
+              "RelativeDocumentMoniker": "Models\\Gasto.cs",
+              "ToolTip": "C:\\Users\\ferna\\source\\repos\\ProyectoGrupal\\BackEnd\\Models\\Gasto.cs",
+              "RelativeToolTip": "Models\\Gasto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T01:29:44.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GastosController.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\source\\repos\\ProyectoGrupal\\BackEnd\\Controllers\\GastosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GastosController.cs",
+              "ToolTip": "C:\\Users\\ferna\\source\\repos\\ProyectoGrupal\\BackEnd\\Controllers\\GastosController.cs",
+              "RelativeToolTip": "Controllers\\GastosController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T01:28:25.189Z",
+              "EditorCaption": ""
             }
           ]
         }
